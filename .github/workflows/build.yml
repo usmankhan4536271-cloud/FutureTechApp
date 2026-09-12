@@ -32,4 +32,3 @@ jobs:
         path: |
           app/build/outputs/
           README.md
-        
